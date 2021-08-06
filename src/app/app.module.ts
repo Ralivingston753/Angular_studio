@@ -14,7 +14,7 @@ import { ExperimentsComponent } from './experiments/experiments.component';
     HeaderComponent,
     CrewComponent,
     EquipmentComponent,
-    ExperimentsComponent
+    ExperimentsComponent,
   ],
   imports: [
     BrowserModule,
